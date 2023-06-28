@@ -1,0 +1,4 @@
+pandas==2.0.2
+spacy==3.5.3
+fuzzywuzzy==0.18.0
+nltk==3.8.1
